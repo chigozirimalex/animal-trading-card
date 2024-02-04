@@ -1,0 +1,40 @@
+body {
+  font: gray;
+}
+
+#top-head {
+  margin: 30px;
+  text-align: center;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  margin: auto;
+  padding: 10px;
+  border: 1px solid grey;
+  width: 300px;
+}
+
+#second-container {
+  border: 1px solid grey;
+}
+
+#description {
+  margin: 2px;
+}
